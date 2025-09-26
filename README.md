@@ -8,4 +8,7 @@ Today I learned:
 * How to check the status of my repository
 * How to checkout different commits
 * How to check differences in my files
+* How to solve merge conflicts
+
+
 * And more!!
