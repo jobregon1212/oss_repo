@@ -7,4 +7,5 @@ Today I learned:
 * How to create a repository
 * How to check the status of my repository
 * How to checkout different commits
+* How to check differences in my files
 * And more!!
